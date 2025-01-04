@@ -1,4 +1,4 @@
-## Olá meu nome é Luiz Neto, Engenheiro Eletricista e Desenvolvedor de Software! 👋
+## Olá meu nome é Luiz Neto, Engenheiro de Software! 👋
 <div align="center">
   <a href="https://github.com/Luiznettoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiznettoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
